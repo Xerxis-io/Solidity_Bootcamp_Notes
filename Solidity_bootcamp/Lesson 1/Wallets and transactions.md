@@ -3,6 +3,6 @@
 * What wallets are out there.
 * Using metamask
 * Create a public-private keypair
-* Connecting to sepolia testnet
-* Funding via faucet
+* Connecting to holesky testnet
+* Funding via [faucet](https://cloud.google.com/application/web3/faucet/ethereum/holesky)
 * Sending a ETH transaction

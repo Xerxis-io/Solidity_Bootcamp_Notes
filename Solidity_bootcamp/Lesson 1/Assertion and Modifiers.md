@@ -1,6 +1,8 @@
 - How errors are handled on solidity (briefly)
-- Assertion
-- Require statements
+- Assertion 
+	- signature `Panic(uint256)`
+- Require statements 
+	- signature `Error(string)`
 - [Modifiers](https://docs.soliditylang.org/en/latest/structure-of-a-contract.html#function-modifiers)
 - Where to use modifiers
 ### References
